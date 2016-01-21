@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+        <remote name="github"
+                fetch="https://github.com/" />
+
+        <default revision="refs/heads/master" />
+
+        <project path="usbasp-rc522" name="Stuw/usbasp-rc522.git" remote="github" revision="refs/heads/master" />
+        <project path="libusbasp" name="Stuw/libusbasp.git" remote="github" revision="refs/heads/master" />
+        <project path="usbasp-firmware" name="Stuw/usbasp-firmware.git" remote="github" revision="refs/heads/master" />
+</manifest>
