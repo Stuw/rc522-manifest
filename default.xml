@@ -6,6 +6,7 @@
         <default revision="refs/heads/master" />
 
         <project path="usbasp-rc522" name="Stuw/usbasp-rc522.git" remote="github" revision="refs/heads/master" />
+        <project path="usbasp-rfid" name="Stuw/usbasp-rfid.git" remote="github" revision="refs/heads/master" />
         <project path="libusbasp" name="Stuw/libusbasp.git" remote="github" revision="refs/heads/master" />
         <project path="usbasp-firmware" name="Stuw/usbasp-firmware.git" remote="github" revision="refs/heads/master" />
 </manifest>
